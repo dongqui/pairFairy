@@ -5,7 +5,7 @@ Our King manager definitely deserves to use her time for more valuable things li
 If you are spending your time to make unique pairs in pain, ask Pair Fairy to help out! It’s gonna give you all pairs needed.
 
 ## Usage
-Just write the names with space which separate each person in input box and YELL “ Pair Fairy !!!!”
+Just write the names with space which separates each person in input box and YELL “ Pair Fairy !!!!”
 <br>Ex) Tonny Frank Justine 
 <br>That’s it.
 
