@@ -1,0 +1,27 @@
+.card {
+  display: inline-block;
+  width: 30%;
+}
+
+.inputF {
+  display: inline-block;
+  margin-top: 10vh;
+}
+h3 {
+  display: inline-block;
+}
+img {
+  width: 30%;
+  display: inline-block;
+}
+input {
+
+  width: 20px;
+}
+
+
+.content {
+  border-style: solid;
+  border-width: 5px;
+  margin: 0 auto;
+}
